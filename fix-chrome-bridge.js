@@ -1,4 +1,4 @@
-fix - chrome - bridge.js;
+//fix - chrome - bridge.js;
 // Run with: node fix-chrome-bridge.js
 // Revert:   node fix-chrome-bridge.js --uninstall
 
